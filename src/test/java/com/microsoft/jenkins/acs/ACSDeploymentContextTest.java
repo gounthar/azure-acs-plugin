@@ -3,7 +3,6 @@ package com.microsoft.jenkins.acs;
 import com.cloudbees.jenkins.plugins.sshcredentials.SSHUserPrivateKey;
 import com.google.common.collect.ImmutableList;
 import com.microsoft.azure.util.AzureBaseCredentials;
-import com.microsoft.azure.util.AzureCredentials;
 import com.microsoft.jenkins.acs.util.Constants;
 import com.microsoft.jenkins.kubernetes.credentials.ResolvedDockerRegistryEndpoint;
 import hudson.model.Item;
